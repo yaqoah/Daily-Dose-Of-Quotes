@@ -11,7 +11,7 @@ public class QuotesLauncher {
 			animeNotification.showMessage();
 
 			try {
-				Thread.sleep(1000 * 60 * 20); // every 20 minutes
+				Thread.sleep(1000 * 60 * 20);
 			} catch (InterruptedException ex) {
 				System.out.println("user called quits");
 			}
