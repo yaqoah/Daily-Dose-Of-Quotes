@@ -1,6 +1,6 @@
 # Daily Dose Of Quotes
 
->A Program that parses a [website](https://www.less-real.com/quotes), generating a random quote every 20 minutes and delivers it to the user as a notification.
+>A Program that parses a [website](https://www.less-real.com/quotes), generating a random (anime related) quote every 20 minutes and delivers it to the user as a notification.
 
 
 # Requirements
