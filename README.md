@@ -8,4 +8,6 @@ A good internet connection, also Java 8 and .. just run it :)
 
 
  ## Technologies:
-> json maven jUnit
+>                  json 
+>                  maven 
+>                  junit
