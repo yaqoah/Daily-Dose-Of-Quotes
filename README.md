@@ -1,14 +1,10 @@
-# Daily Dose Of Quotes
+# qoutify
 
-> A Program that parses a [website](https://www.less-real.com/quotes), generating a random (anime related) quote every 20 minutes and delivers it to the user as a notification.
-
-
-# Requirements
-> A good internet connection, also Java 8 and .. just run it :) 
+> A Program that parses a [website](https://www.less-real.com/quotes), delivering a quote every x minutes as a notification via Windows System Tray.
 
 
- ## Technologies:
+## Requirements
      
-     jsoup
-     maven 
-     junit
+     java 8;
+     jsoup 1.14.1;
+     maven 3.6.0;
